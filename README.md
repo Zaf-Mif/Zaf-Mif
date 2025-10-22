@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Zaferan 
 
-🎯 **Software Engineer | Flutter Developer | Problem Solver**
+🎯 **Software Engineer | Flutter Developer | Competitive Programmer**
 
 I'm a dedicated Software Engineer passionate about building high-quality, scalable **mobile applications** using Flutter.  
 With strong expertise in **Clean Architecture**, **TDD**, and **state management**, I aim to craft applications that are both robust and beautifully designed.  
