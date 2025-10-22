@@ -35,21 +35,21 @@ I also enjoy solving complex **algorithmic and programming problems**, leveragin
 
 ## 🚀 Featured Projects
 
-### 🗣️ [Lissan AI](https://[github.com/yourusername/lissan-ai](https://github.com/yaftes/lissan-ai-mobile))
+### 🗣️ [Lissan AI](https://[github.com/yourusername/lissan-ai](https://github.com/yaftes/lissan-ai-mobile)])
 An AI-powered language learning assistant offering conversational practice, translation, and pronunciation feedback.  
 **Tech Stack:** Flutter, Dart, OpenAI API, REST API, Clean Architecture, Provider, Team Work.  
 > _“Bringing intelligent language learning to every user.”_
 
 ---
 
-### 🛒 [E-Commerce App](https://[github.com/yourusername/flutter-ecommerce](https://github.com/Zaf-Mif/2025-project-phase-mobile-tasks/tree/main/ecommerce_app))
+### 🛒 [E-Commerce App](https://[github.com/yourusername/flutter-ecommerce](https://github.com/Zaf-Mif/2025-project-phase-mobile-tasks/tree/main/ecommerce_app)])
 A production-ready Flutter eCommerce app featuring product management, authentication, local caching, and offline support.  
 **Tech Stack:** Flutter, Dart, Bloc, SharedPreferences, REST API, JWT Authentication, Clean Architecture.  
 > _“A seamless shopping experience built for speed and reliability.”_
 
 ---
 
-### 💬 [Real-Time Chatting App]([https://github.com/yourusername/flutter-chat-app](https://github.com/Zaf-Mif/2025-A2SV-G6-mobile-assessment/tree/main/chat_app))
+### 💬 [Real-Time Chatting App]([https://github.com/yourusername/flutter-chat-app](https://github.com/Zaf-Mif/2025-A2SV-G6-mobile-assessment/tree/main/chat_app)])
 A complete real-time messaging platform supporting live socket communication, message delivery states, and user presence.  
 **Tech Stack:** Flutter, Socket.IO, Node.js, REST APIs, Clean Architecture.  
 > _“Connecting people with reliable real-time communication.”_
@@ -59,8 +59,8 @@ A complete real-time messaging platform supporting live socket communication, me
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaferanmiftah&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=zaferanmiftah&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zaf-mif&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=zaf-mif&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -68,7 +68,6 @@ A complete real-time messaging platform supporting live socket communication, me
 ## 💬 Quote
 
 > *"Code is like art — the cleaner and simpler it is, the more powerful its impact."*  
-> — *Zaferan Miftah*
 
 ---
 
