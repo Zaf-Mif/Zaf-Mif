@@ -23,7 +23,6 @@ I also enjoy solving complex **algorithmic and programming problems**, leveragin
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clean%20Architecture-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TDD-6DB33F?style=for-the-badge"/>
