@@ -20,41 +20,37 @@ I also enjoy solving complex **algorithmic and programming problems**, leveragin
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TDD-6DB33F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+**Languages & Frameworks:** Flutter, Dart  
+**Architecture & Patterns:** Clean Architecture, Test-Driven Development (TDD)  
+**APIs & Communication:** REST API, Socket.IO  
+**Tools & Version Control:** Git/qGithub 
 
 ---
 
+
 ## 🚀 Featured Projects
 
-### 🗣️ [Lissan AI](https://[github.com/yourusername/lissan-ai](https://github.com/yaftes/lissan-ai-mobile)])
+### 🗣️ [Lissan AI](https://github.com/yaftes/lissan-ai-mobile)
 An AI-powered language learning assistant offering conversational practice, translation, and pronunciation feedback.  
 **Tech Stack:** Flutter, Dart, OpenAI API, REST API, Clean Architecture, Provider, Team Work.  
 > _“Bringing intelligent language learning to every user.”_
 
 ---
 
-### 🛒 [E-Commerce App](https://[github.com/yourusername/flutter-ecommerce](https://github.com/Zaf-Mif/2025-project-phase-mobile-tasks/tree/main/ecommerce_app)])
+### 🛒 [E-Commerce App](https://github.com/Zaf-Mif/2025-project-phase-mobile-tasks/tree/main/ecommerce_app)
 A production-ready Flutter eCommerce app featuring product management, authentication, local caching, and offline support.  
 **Tech Stack:** Flutter, Dart, Bloc, SharedPreferences, REST API, JWT Authentication, Clean Architecture.  
 > _“A seamless shopping experience built for speed and reliability.”_
 
 ---
 
-### 💬 [Real-Time Chatting App]([https://github.com/yourusername/flutter-chat-app](https://github.com/Zaf-Mif/2025-A2SV-G6-mobile-assessment/tree/main/chat_app)])
+### 💬 [Real-Time Chatting App](https://github.com/Zaf-Mif/2025-A2SV-G6-mobile-assessment/tree/main/chat_app)
 A complete real-time messaging platform supporting live socket communication, message delivery states, and user presence.  
 **Tech Stack:** Flutter, Socket.IO, Node.js, REST APIs, Clean Architecture.  
 > _“Connecting people with reliable real-time communication.”_
 
 ---
-
+<!-- 
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -63,7 +59,7 @@ A complete real-time messaging platform supporting live socket communication, me
 </p>
 
 ---
-
+-->
 ## 💬 Quote
 
 > *"Code is like art — the cleaner and simpler it is, the more powerful its impact."*  
@@ -73,16 +69,14 @@ A complete real-time messaging platform supporting live socket communication, me
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:zaferanmiftah@gmail.com">
-    <img src="https://img.shields.io/badge/Email-zaferanmiftah@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://linkedin.com/in/zaferan-miftah-0674552b1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Zaferan%20Miftah-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/zaferan-miftah-0674552b1">
-    <img src="https://img.shields.io/badge/LinkedIn-Zaferan%20Miftah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/zaf-Mif">
-    <img src="https://img.shields.io/badge/GitHub-Zaferan--Miftah-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <!--<a href="https://www.buymeacoffee.com/zaferanmiftah" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>-->
 </p>
+
 
 ---
 
