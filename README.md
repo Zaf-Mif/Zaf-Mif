@@ -20,7 +20,7 @@ I also enjoy solving complex **algorithmic and programming problems**, leveragin
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks:** Flutter, Dart  
+**Languages & Frameworks:** C++, Java, Python, Flutter, Dart  
 **Architecture & Patterns:** Clean Architecture, Test-Driven Development (TDD)  
 **APIs & Communication:** REST API, Socket.IO  
 **Tools & Version Control:** Git/ Github 
