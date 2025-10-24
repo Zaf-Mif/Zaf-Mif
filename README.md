@@ -120,9 +120,10 @@ A complete real-time messaging platform supporting live socket communication, me
   <a href="https://linkedin.com/in/zaferan-miftah-0674552b1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Zaferan%20Miftah-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <!--
   <a href="https://www.buymeacoffee.com/zaferanmiftah" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
+  </a> -->
   <a href="https://www.upwork.com/freelancers/~0134a361eb5de8281f?mp_source=share" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-Zaferan%20Miftah-1DBF73?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
