@@ -116,14 +116,10 @@ A complete real-time messaging platform supporting live socket communication, me
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/zaferan-miftah-0674552b1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Zaferan%20Miftah-blue?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <!--<a href="https://www.buymeacoffee.com/zaferanmiftah" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>-->
-</p>
+- [LinkedIn](https://linkedin.com/in/zaferan-miftah-0674552b1)  
+- [Buy Me a Coffee](https://www.buymeacoffee.com/zaferanmiftah)  
+- [Upwork Profile](https://www.upwork.com/freelancers/~0134a361eb5de8281f?mp_source=share)
+
 
 
 ---
