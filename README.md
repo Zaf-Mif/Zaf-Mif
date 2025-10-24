@@ -23,7 +23,7 @@ I also enjoy solving complex **algorithmic and programming problems**, leveragin
 **Languages & Frameworks:** Flutter, Dart  
 **Architecture & Patterns:** Clean Architecture, Test-Driven Development (TDD)  
 **APIs & Communication:** REST API, Socket.IO  
-**Tools & Version Control:** Git/qGithub 
+**Tools & Version Control:** Git/ Github 
 
 ---
 
@@ -60,6 +60,42 @@ A complete real-time messaging platform supporting live socket communication, me
 
 ---
 -->
+
+## 📊 GitHub Stats
+
+> _“Code. Create. Conquer.”_
+
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Zaf-Mif&show_icons=true&count_private=true&title_color=FF6EC7&icon_color=00FFFF&text_color=EDEDED&bg_color=0D1117&hide_border=true&border_radius=15" 
+    height="165"
+  />
+  
+  <!-- Most Used Languages Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaf-Mif&layout=compact&title_color=FF6EC7&text_color=EDEDED&bg_color=0D1117&hide_border=true&border_radius=15" 
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <!-- Contribution Streak -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Zaf-Mif&theme=highcontrast&hide_border=true&ring=00FFFF&fire=FF6EC7&currStreakLabel=FF6EC7&background=0D1117&border_radius=15" 
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <!-- Trophy Showcase -->
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Zaf-Mif&theme=darkhub&margin-w=10&margin-h=10&no-frame=true&row=1&column=6" 
+  />
+</p>
+
+---
+
 ## 💬 Quote
 
 > *"Code is like art — the cleaner and simpler it is, the more powerful its impact."*  
@@ -70,7 +106,7 @@ A complete real-time messaging platform supporting live socket communication, me
 
 <p align="center">
   <a href="https://linkedin.com/in/zaferan-miftah-0674552b1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Zaferan%20Miftah-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Zaferan%20Miftah-blue?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <!--<a href="https://www.buymeacoffee.com/zaferanmiftah" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
