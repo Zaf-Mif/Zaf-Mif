@@ -106,6 +106,14 @@ A complete real-time messaging platform supporting live socket communication, me
 
 ---
 
+## ⚡ Fun & Learning
+
+- 📚 Exploring **advanced Flutter animations** and performance optimization.  
+- 💭 I love simplifying complex systems into elegant, maintainable solutions.  
+- 🎯 Goal for 2025: Contribute to **open-source Flutter projects** and mentor junior developers.  
+
+---
+
 ## 📫 Connect With Me
 
 <p align="center">
@@ -117,14 +125,6 @@ A complete real-time messaging platform supporting live socket communication, me
   </a>-->
 </p>
 
-
----
-
-## ⚡ Fun & Learning
-
-- 📚 Exploring **advanced Flutter animations** and performance optimization.  
-- 💭 I love simplifying complex systems into elegant, maintainable solutions.  
-- 🎯 Goal for 2025: Contribute to **open-source Flutter projects** and mentor junior developers.  
 
 ---
 
