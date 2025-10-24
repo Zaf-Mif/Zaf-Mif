@@ -59,7 +59,7 @@ A complete real-time messaging platform supporting live socket communication, me
 </p>
 
 ---
--->
+
 
 ## 📊 GitHub Stats
 
@@ -67,12 +67,14 @@ A complete real-time messaging platform supporting live socket communication, me
 
 <p align="center">
   <!-- GitHub Stats Card -->
+  <!--
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Zaf-Mif&show_icons=true&count_private=true&title_color=FF6EC7&icon_color=00FFFF&text_color=EDEDED&bg_color=0D1117&hide_border=true&border_radius=15" 
     height="165"
   />
   
   <!-- Most Used Languages Card -->
+  <!--
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaf-Mif&layout=compact&title_color=FF6EC7&text_color=EDEDED&bg_color=0D1117&hide_border=true&border_radius=15" 
     height="165"
@@ -81,6 +83,7 @@ A complete real-time messaging platform supporting live socket communication, me
 
 <p align="center">
   <!-- Contribution Streak -->
+  <!--
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Zaf-Mif&theme=highcontrast&hide_border=true&ring=00FFFF&fire=FF6EC7&currStreakLabel=FF6EC7&background=0D1117&border_radius=15" 
     height="165"
@@ -89,13 +92,14 @@ A complete real-time messaging platform supporting live socket communication, me
 
 <p align="center">
   <!-- Trophy Showcase -->
+  <!--
   <img 
     src="https://github-profile-trophy.vercel.app/?username=Zaf-Mif&theme=darkhub&margin-w=10&margin-h=10&no-frame=true&row=1&column=6" 
   />
 </p>
 
 ---
-
+-->
 ## 💬 Quote
 
 > *"Code is like art — the cleaner and simpler it is, the more powerful its impact."*  
