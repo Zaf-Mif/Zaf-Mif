@@ -2,9 +2,9 @@
 
 🎯 **Software Engineer | Flutter Developer | Competitive Programmer**
 
-I'm a dedicated Software Engineer passionate about building high-quality, scalable **mobile applications** using Flutter.  
-With strong expertise in **Clean Architecture**, **TDD**, and **state management**, I aim to craft applications that are both robust and beautifully designed.  
-I also enjoy solving complex **algorithmic and programming problems**, leveraging my analytical skills to design efficient and maintainable solutions.
+A dedicated Software Engineer passionate about building high-quality, scalable **mobile applications** using Flutter.  
+With strong expertise in **Clean Architecture**, **TDD**, and **state management**, Aim to craft applications that are both robust and beautifully designed.  
+Also enjoy solving complex **algorithmic and programming problems**, leveraging my analytical skills to design efficient and maintainable solutions.
 
 ---
 
