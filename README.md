@@ -1,140 +1,95 @@
-# 👋 Hi, I'm Zaferan 
+# 👋 Welcome
 
-🎯 **Software Engineer | Flutter Developer | Competitive Programmer**
-
-A dedicated Software Engineer passionate about building high-quality, scalable **mobile applications** using Flutter.  
-With strong expertise in **Clean Architecture**, **TDD**, and **state management**, Aim to craft applications that are both robust and beautifully designed.  
-Also enjoy solving complex **algorithmic and programming problems**, leveraging my analytical skills to design efficient and maintainable solutions.
+I specialize in building **production-ready mobile apps** using **Clean Architecture**, **Test-Driven Development (TDD)**, and modern Flutter state management to help teams ship reliable software faster.
 
 ---
 
-## 🧠 About Me
-
-- 💡 Worked on **Lissan AI**, an intelligent language learning assistant powered by AI.  
-- 🛍️ Developed a full-featured **E-Commerce App** with authentication, caching, and clean architecture principles.  
-- 💬 Built a **real-time chatting system** using `socket_io_client` for seamless live communication.  
-- 🧩 Passionate about writing **clean, test-driven, and modular Flutter code**.  
-- 🌱 Constantly learning about **scalable Flutter architectures** and backend integration.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Frameworks:** C++, Java, Python, Flutter, Dart  
-**Architecture & Patterns:** Clean Architecture, Test-Driven Development (TDD)  
-**APIs & Communication:** REST API, Socket.IO  
-**Tools & Version Control:** Git/ Github 
+## 🎯 What You Get
+- ✅ Scalable Flutter applications with clear separation of concerns  
+- ✅ Testable, maintainable code following Clean Architecture  
+- ✅ Real-time features (chat, sockets, live updates) that actually scale  
+- ✅ Offline-first experiences with caching and persistence  
+- ✅ Clean, readable codebases that teams enjoy working with  
 
 ---
 
+## 🧠 What I’ve Built
 
-## 🚀 Featured Projects
+### 🗣️ Lissan AI  
+An AI-powered language learning assistant designed to improve speaking confidence through conversation, translation, and pronunciation feedback.
 
-### 🗣️ [Lissan AI](https://github.com/yaftes/lissan-ai-mobile)
-An AI-powered language learning assistant offering conversational practice, translation, and pronunciation feedback.  
-**Tech Stack:** Flutter, Dart, OpenAI API, REST API, Clean Architecture, Provider, Team Work.  
-> _“Bringing intelligent language learning to every user.”_
+**Why it matters:**  
+Helps users practice languages naturally with AI-driven feedback.
 
----
-
-### 🛒 [E-Commerce App](https://github.com/Zaf-Mif/2025-project-phase-mobile-tasks/tree/main/ecommerce_app)
-A production-ready Flutter eCommerce app featuring product management, authentication, local caching, and offline support.  
-**Tech Stack:** Flutter, Dart, Bloc, SharedPreferences, REST API, JWT Authentication, Clean Architecture.  
-> _“A seamless shopping experience built for speed and reliability.”_
+**Tech Stack:**  
+Flutter · Dart · OpenAI API · REST API · Clean Architecture · Provider  
 
 ---
 
-### 💬 [Real-Time Chatting App](https://github.com/Zaf-Mif/2025-A2SV-G6-mobile-assessment/tree/main/chat_app)
-A complete real-time messaging platform supporting live socket communication, message delivery states, and user presence.  
-**Tech Stack:** Flutter, Socket.IO, Node.js, REST APIs, Clean Architecture.  
-> _“Connecting people with reliable real-time communication.”_
+### 🛒 E-Commerce App  
+A full-featured Flutter eCommerce application with authentication, product management, caching, and offline support.
 
----
-<!-- 
-## 📊 GitHub Stats
+**Why it matters:**  
+Delivers a smooth shopping experience even with unstable network conditions.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaf-mif&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=zaf-mif&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+**Tech Stack:**  
+Flutter · Dart · Bloc · SharedPreferences · REST API · JWT Authentication · Clean Architecture  
 
 ---
 
+### 💬 Real-Time Chatting App  
+A complete real-time messaging system supporting live communication, message delivery states, and user presence.
 
-## 📊 GitHub Stats
+**Why it matters:**  
+Enables fast, reliable, real-time communication for modern applications.
 
-> _“Code. Create. Conquer.”_
-
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <!--
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Zaf-Mif&show_icons=true&count_private=true&title_color=FF6EC7&icon_color=00FFFF&text_color=EDEDED&bg_color=0D1117&hide_border=true&border_radius=15" 
-    height="165"
-  />
-  
-  <!-- Most Used Languages Card -->
-  <!--
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaf-Mif&layout=compact&title_color=FF6EC7&text_color=EDEDED&bg_color=0D1117&hide_border=true&border_radius=15" 
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <!-- Contribution Streak -->
-  <!--
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Zaf-Mif&theme=highcontrast&hide_border=true&ring=00FFFF&fire=FF6EC7&currStreakLabel=FF6EC7&background=0D1117&border_radius=15" 
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <!-- Trophy Showcase -->
-  <!--
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Zaf-Mif&theme=darkhub&margin-w=10&margin-h=10&no-frame=true&row=1&column=6" 
-  />
-</p>
-
----
--->
-## 💬 Quote
-
-> *"Code is like art — the cleaner and simpler it is, the more powerful its impact."*  
+**Tech Stack:**  
+Flutter · Socket.IO · Node.js · REST APIs · Clean Architecture  
 
 ---
 
-## ⚡ Fun & Learning
+## 🛠 Tech Stack You Can Rely On
 
-- 📚 Exploring **advanced Flutter animations** and performance optimization.  
-- 💭 I love simplifying complex systems into elegant, maintainable solutions.  
-- 🎯 Goal for 2025: Contribute to **open-source Flutter projects** and mentor junior developers.  
+**Languages & Frameworks**
+- Flutter, Dart  
+- C++, Java, Python  
 
----
+**Architecture & Practices**
+- Clean Architecture  
+- Test-Driven Development (TDD)  
 
-## 📫 Connect With Me
+**APIs & Communication**
+- REST APIs  
+- Socket.IO  
 
-<p align="center">
-  <a href="https://linkedin.com/in/zaferan-miftah-0674552b1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Zaferan%20Miftah-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <!--
-  <a href="https://www.buymeacoffee.com/zaferanmiftah" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a> -->
-  <a href="https://www.upwork.com/freelancers/~0134a361eb5de8281f?mp_source=share" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-Zaferan%20Miftah-1DBF73?style=for-the-badge&logo=upwork&logoColor=white"/>
-  </a>
-</p>
-
-
-
+**Tools**
+- Git, GitHub  
 
 ---
 
-⭐️ *If you like my work, feel free to follow or connect on LinkedIn!*  
-> _Let’s build impactful software together._
+## ⚡ How I Think About Code
+> “Code is like art — the cleaner and simpler it is, the more powerful its impact.”
+
+I focus on **clarity over cleverness**, **structure over shortcuts**, and **long-term maintainability over quick hacks**.
 
 ---
+
+## 🌱 Currently Improving
+- Flutter performance optimization  
+- Advanced animations & UI polish  
+- Scalable architecture patterns for large apps  
+
+🎯 **2025 Goal:**  
+Contribute to open-source Flutter projects and mentor junior developers.
+
+---
+
+## 📫 Let’s Connect
+If you care about **clean Flutter architecture**, **well-tested code**, and **real-world solutions**, feel free to connect.
+
+⭐ Follow to see more projects and clean architecture patterns  
+🔗 LinkedIn: *(https://www.upwork.com/freelancers/~0134a361eb5de8281f?mp_source=share)*
+
+---
+
+Let’s build software that lasts.
