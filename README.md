@@ -43,13 +43,13 @@ A production-ready Flutter eCommerce app featuring product management, authentic
 > _“A seamless shopping experience built for speed and reliability.”_
 
 ---
-
+<!--
 ### 💬 [Real-Time Chatting App](https://github.com/Zaf-Mif/2025-A2SV-G6-mobile-assessment/tree/main/chat_app)
 A complete real-time messaging platform supporting live socket communication, message delivery states, and user presence.  
 **Tech Stack:** Flutter, Socket.IO, Node.js, REST APIs, Clean Architecture.  
 > _“Connecting people with reliable real-time communication.”_
-
 ---
+-->
 <!-- 
 ## 📊 GitHub Stats
 
@@ -102,7 +102,7 @@ A complete real-time messaging platform supporting live socket communication, me
 -->
 ## 💬 Quote
 
-> *"Code is like art — the cleaner and simpler it is, the more powerful its impact."*  
+> *"Code is like art - the cleaner and simpler it is, the more powerful its impact."*  
 
 ---
 
