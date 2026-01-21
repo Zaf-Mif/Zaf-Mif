@@ -110,7 +110,7 @@ A complete real-time messaging platform supporting live socket communication, me
 
 - 📚 Exploring **advanced Flutter animations** and performance optimization.  
 - 💭 I love simplifying complex systems into elegant, maintainable solutions.  
-- 🎯 Goal for 2025: Contribute to **open-source Flutter projects** and mentor junior developers.  
+<!-- - 🎯 Goal for 2025: Contribute to **open-source Flutter projects** and mentor junior developers.  -->
 
 ---
 
